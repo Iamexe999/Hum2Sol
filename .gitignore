@@ -1,0 +1,28 @@
+# build output
+build/
+out/
+
+# VS Code
+.vscode/
+
+# Visual Studio / MSVC
+.vs/
+*.sln
+*.vcxproj*
+*.filters
+*.user
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# binaries
+*.exe
+*.pdb
+*.ilk
+
+# OS junk
+.DS_Store
+Thumbs.db
