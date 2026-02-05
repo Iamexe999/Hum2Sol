@@ -197,16 +197,3 @@ Try a different tonic, e.g.:
 * Solfege uses a chromatic set:
   `Do Di Re Ri Mi Fa Fi So Si La Li Ti`
 
----
-
-## Next improvements (optional)
-
-* Auto tonic/key detection
-* Scale snapping (major/minor) to reduce chromatic syllables
-* Live microphone input (PortAudio)
-* Export to MIDI or MusicXML
-
-```
-
-If you want, I can also add a tiny `assets/examples/` section + a PowerShell script that runs a few preset commands so you can sanity-check quickly.
-```
